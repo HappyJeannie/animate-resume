@@ -105,7 +105,7 @@ var mdText = `
   * [本页地址](https://github.com/HappyJeannie/animate-resume)
   
   *******
-  联系方式：
+  ## 联系方式：
   * 博客留言，我会尽快回复
   * 欢迎关注[我的知乎](https://www.zhihu.com/people/tu-zhi-16-79/activities)给我留言，哈哈，欢迎点赞比小心心
 `;

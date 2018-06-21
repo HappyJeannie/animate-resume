@@ -10,3 +10,6 @@
 .token.function{
   color: #000;
 }
+#resume{
+  display: none;
+}
